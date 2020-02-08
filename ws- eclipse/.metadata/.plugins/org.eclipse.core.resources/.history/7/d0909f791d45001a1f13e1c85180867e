@@ -1,0 +1,12 @@
+package entities;
+
+public class funcionario {
+	
+	public String Name;
+	public double GrossSalary;
+	public double Tax;
+	
+	
+	
+	
+}

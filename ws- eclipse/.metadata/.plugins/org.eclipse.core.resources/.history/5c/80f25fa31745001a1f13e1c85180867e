@@ -1,0 +1,31 @@
+package entities;
+
+public class retangulo {
+	public String mensoes;	
+	public double largura;
+	public double altura;
+	public double diagonalTribute;
+	
+	public double area() {
+		double area = largura * altura;
+		return area;
+	}
+	
+	public double perimetro() {
+		double perimetro = 2 * largura + altura;
+		return perimetro;
+	}
+	public double diagonal() {
+		double diagonal = Math.sqrt(largura * largura + altura * altura);
+		return diagonal;
+	}
+	public String toString() {
+		return mensoes 
+			+ String.format("AREA = %.2f%n", area())
+			+ String.format("PERIMETRO =  %.2f%n", perimetro())
+			+String.format("%.2f%n", diagonal());
+		
+		
+	}
+	
+}

@@ -1,0 +1,32 @@
+package entities;
+
+public class Client {
+
+	public int number;
+	public String name;
+	public double valorInicial;
+	public double deposit;
+	public double withdraw;
+
+	
+		public double Deposit() {
+			return valorInicial + Deposit();
+		}
+		
+		
+		public double Withdraw() {
+			return valorInicial + Deposit() - Withdraw() - 5.00;
+		}
+
+
+		public String toString() {
+		return "Account " 
+			+ number 
+			+ ", "
+			+ "Holder: " 
+			+ name + ", " 
+			+ "Balance: $ ";
+	}
+
+}
+

@@ -1,0 +1,89 @@
+2019-12-15 01:01:34.5329|INFO|LevelUp.DownloaderClient.Bootstrapper|Iniciando servidor
+2019-12-15 01:01:34.5868|INFO|LevelUp.DownloaderClient.Bootstrapper|Executando regras de validação da inicialização do servidor
+2019-12-15 01:01:34.6474|INFO|LevelUp.DownloaderClient.Bootstrapper|Definindo argumentos do processo.
+2019-12-15 01:01:34.6524|INFO|LevelUp.DownloaderClient.Bootstrapper|Configurando processo.
+2019-12-15 01:01:34.6524|INFO|LevelUp.DownloaderClient.Bootstrapper|Iniciando processo C:\Users\Vinic\AppData\Local\Apps\2.0\75G0OQMW.TG8\H47JMYNZ.DJ7\leve..tion_09d3a27e9e5c8da9_0000.0009_bbe50c97751f7cdc\tools\aria2-1.16.3-win-32bit-build1\aria2c.exe
+2019-12-15 01:01:38.3323|INFO|LevelUp.DownloaderClient.Bootstrapper|Servidor do aria iniciado.
+2019-12-15 01:01:38.3413|INFO|LevelUp.DownloaderClient.Bootstrapper|Websocket connection opened.
+2019-12-15 01:02:04.5682|DEBUG|LevelUp.DownloaderClient.Domain.Entities.GameDownloader|GameDownloader for game Combat Arms created.
+2019-12-15 01:02:07.3535|INFO|LevelUp.DownloaderClient.Bootstrapper|Recuperando status de 492cb59aba89f91a.
+2019-12-15 01:02:14.4663|INFO|LevelUp.DownloaderClient.Bootstrapper|Recuperando status de 492cb59aba89f91a.
+2019-12-15 01:02:14.4663|INFO|LevelUp.DownloaderClient.Bootstrapper|Download do arquivo torrent url http://download.levelupgames.com.br/CombatArms/Combatarms_VER_BR_1902.10.exe.torrent com gid 492cb59aba89f91a concluido.
+2019-12-15 01:02:14.4663|INFO|LevelUp.DownloaderClient.Bootstrapper|Excluindo dados de 492cb59aba89f91a.
+2019-12-15 01:02:14.5197|INFO|LevelUp.DownloaderClient.Bootstrapper|Recuperando status de 622c63161dd80f20.
+2019-12-15 01:02:14.5267|INFO|LevelUp.DownloaderClient.Bootstrapper|Download da url C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe.torrent com gid 622c63161dd80f20 iniciado
+2019-12-15 01:02:14.5267|INFO|LevelUp.DownloaderClient.Bootstrapper|Download do torrent C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe.torrent iniciado.
+2019-12-15 01:02:14.6066|INFO|LevelUp.DownloaderClient.Bootstrapper|Observando progresso de 622c63161dd80f20.
+2019-12-15 01:06:05.4644|INFO|LevelUp.DownloaderClient.Bootstrapper|Recuperando status de 622c63161dd80f20.
+2019-12-15 01:06:05.4644|INFO|LevelUp.DownloaderClient.Bootstrapper|Download da url C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe.torrent com gid 622c63161dd80f20 concluido.
+2019-12-15 01:06:05.4644|INFO|LevelUp.DownloaderClient.Bootstrapper|Download da url C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe.torrent com gid 622c63161dd80f20 concluido.
+2019-12-15 01:06:05.4644|INFO|LevelUp.DownloaderClient.Bootstrapper|Parando e removendo 622c63161dd80f20.
+2019-12-15 01:06:05.4803|INFO|LevelUp.DownloaderClient.Bootstrapper|Parando e removendo 622c63161dd80f20.
+2019-12-15 01:06:05.4803|INFO|LevelUp.DownloaderClient.Bootstrapper|Excluindo dados de 622c63161dd80f20.
+2019-12-15 01:06:05.5294|DEBUG|LevelUp.DownloaderClient.Bootstrapper|Código do erro 1. Active Download not found for GID#622c63161dd80f20
+2019-12-15 01:06:05.5294|INFO|LevelUp.DownloaderClient.Bootstrapper|Download do torrent C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe.torrent concluido.
+2019-12-15 01:06:05.5423|INFO|LevelUp.DownloaderClient.Bootstrapper|Download Total: 2.467,55 MB
+2019-12-15 01:06:05.5423|INFO|LevelUp.DownloaderClient.Bootstrapper|Upload Total: 0,00 MB
+2019-12-15 01:06:05.5743|INFO|LevelUp.DownloaderClient.Bootstrapper|Recuperando status de 622c63161dd80f20.
+2019-12-15 01:06:07.5004|INFO|LevelUp.DownloaderClient.Bootstrapper|Download do torrent C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe.torrent concluido.
+2019-12-15 01:06:07.5144|INFO|LevelUp.DownloaderClient.Bootstrapper|Download Total: 2.467,55 MB
+2019-12-15 01:06:07.5293|INFO|LevelUp.DownloaderClient.Bootstrapper|Upload Total: 0,00 MB
+2019-12-15 01:06:07.5880|DEBUG|LevelUp.DownloaderClient.Bootstrapper|Código do erro 1. GID 622c63161dd80f20 is not found
+2019-12-15 01:06:17.1831|DEBUG|LevelUp.DownloaderClient.Domain.Entities.GameDownloader|Stopping GameDownloader for game Combat Arms.
+2019-12-15 01:06:17.2021|INFO|LevelUp.DownloaderClient.Bootstrapper|Parando e removendo 622c63161dd80f20.
+2019-12-15 01:06:17.2021|DEBUG|LevelUp.DownloaderClient.Bootstrapper|Código do erro 1. GID 622c63161dd80f20 is not found
+2019-12-15 01:06:17.2150|DEBUG|LevelUp.DownloaderClient.Domain.Entities.GameDownloader|GameDownloader for game Combat Arms stopped.
+2019-12-15 01:06:17.2150|DEBUG|LevelUp.DownloaderClient.Domain.Services.GameInstaller|Instalando Combat Arms a partir de C:/Users/Vinic/Documents/LevelUp Data/Combatarms_VER_BR_1902.10.exe
+2019-12-15 01:10:59.5261|INFO|LevelUp.DownloaderClient.Bootstrapper|Solicitando shutdown do servidor.
+2019-12-15 01:11:01.5458|INFO|LevelUp.DownloaderClient.Bootstrapper|Parando servidor
+2019-12-15 01:11:01.5458|INFO|LevelUp.DownloaderClient.Bootstrapper|Encerrando processo C:\Users\Vinic\AppData\Local\Apps\2.0\75G0OQMW.TG8\H47JMYNZ.DJ7\leve..tion_09d3a27e9e5c8da9_0000.0009_bbe50c97751f7cdc\tools\aria2-1.16.3-win-32bit-build1\aria2c.exe
+2019-12-15 01:11:01.5579|INFO|LevelUp.DownloaderClient.Bootstrapper|Servidor do aria finalizado.
+2019-12-15 01:11:01.5579|INFO|LevelUp.DownloaderClient.Bootstrapper|Processo executou com código -1.
+2019-12-15 01:11:01.5898|INFO|LevelUp.DownloaderClient.Bootstrapper|Websocket connection closed.
+2019-12-15 01:11:01.5898|DEBUG|LevelUp.DownloaderClient.Bootstrapper|Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2019-12-15 01:11:01.6746|FATAL|LevelUp.DownloaderClient.App|Unhandled exception - IsTerminating = True | Exception = System.Exception: The socket is not connected! ---> System.Net.Sockets.SocketException: Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete não está conectado e (durante o envio em um soquete de datagrama usando-se uma chamada sendto) não foi fornecido um endereço
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em SuperSocket.ClientEngine.TcpClientSession.DetectConnected()
+   em SuperSocket.ClientEngine.TcpClientSession.Send(Byte[] data, Int32 offset, Int32 length)
+   em WebSocket4Net.Protocol.DraftHybi10Processor.SendCloseHandshake(WebSocket websocket, Int32 statusCode, String closeReason)
+   em WebSocket4Net.WebSocket.Close(Int32 statusCode, String reason)
+   em WebSocket4Net.WebSocket.Close(String reason)
+   em WebSocket4Net.WebSocket.Close()
+   em Aria4net.Server.Watcher.Aria2cWebSocketWatcher.Disconnect()
+   em Aria4net.Server.Watcher.Aria2cWebSocketWatcher.Dispose()
+   em Autofac.Core.Disposer.Dispose(Boolean disposing)
+   em Autofac.Util.Disposable.Dispose()
+   em Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing)
+   em Autofac.Util.Disposable.Dispose()
+   em Autofac.Core.Container.Dispose(Boolean disposing)
+   em Autofac.Util.Disposable.Dispose()
+   em LevelUp.DownloaderClient.Bootstrapper.OnExit(Object sender, EventArgs e)
+   em System.Windows.ExitEventHandler.Invoke(Object sender, ExitEventArgs e)
+   em System.Windows.Application.OnExit(ExitEventArgs e)
+   em System.Windows.Application.DoShutdown()
+   em System.Windows.Application.ShutdownImpl()
+   em System.Windows.Application.ShutdownCallback(Object arg)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   em System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   em System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Threading.DispatcherOperation.Invoke()
+   em System.Windows.Threading.Dispatcher.ProcessQueue()
+   em System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   em MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   em System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   em System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   em System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   em MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   em MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   em System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   em System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   em System.Windows.Application.RunDispatcher(Object ignore)
+   em System.Windows.Application.RunInternal(Window window)
+   em System.Windows.Application.Run(Window window)
+   em LevelUp.DownloaderClient.App.Main()

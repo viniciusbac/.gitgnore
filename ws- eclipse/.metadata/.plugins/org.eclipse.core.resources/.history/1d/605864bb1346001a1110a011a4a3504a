@@ -1,0 +1,36 @@
+package entities;
+
+public class Client {
+
+	public int number;
+	public String name;
+	public double valorInicial;
+	
+	
+	public Client(int number, String name, double valorInicial) {
+		super();
+		this.number = number;
+		this.name = name;
+		this.valorInicial = valorInicial;
+	}
+
+	public Client(int number, String name) {
+		this.number = number;
+		this.name = name;
+	}
+
+	
+	public double deposit() {
+		return valorInicial + deposit();
+	}	 
+	
+	public double withdraw() {
+		return deposit() - withdraw();
+	}
+}
+
+
+
+
+
+

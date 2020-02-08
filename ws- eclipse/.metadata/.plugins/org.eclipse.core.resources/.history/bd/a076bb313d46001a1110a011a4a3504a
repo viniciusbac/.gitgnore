@@ -1,0 +1,52 @@
+package entities;
+
+public class Client {
+
+	public int number;
+	public String name;
+	public double valorInicial;
+
+		public Client(int number, String name, double valorInicial) {
+		super();
+		this.number = number;
+		this.name = name;
+		this.valorInicial = valorInicial;
+	}
+		
+		
+		public String getName() {
+			return name;
+		}
+		public void setName(String name) {
+			this.name = name;
+		}
+
+		
+		public int getNumber() {
+			return number;
+		}
+		public void setNumber(int number) {
+			this.number = number;
+		}
+
+		
+		public double getValorInicial() {
+			return valorInicial;
+		}
+		public void setValorInicial(double valorInicial) {
+			this.valorInicial = valorInicial;
+		}
+
+
+
+		public String toString() {
+		return "Account " 
+			+ number 
+			+ ", "
+			+ "Holder: " 
+			+ name + ", " 
+			+ "Balance: $ ";
+	}
+
+}
+

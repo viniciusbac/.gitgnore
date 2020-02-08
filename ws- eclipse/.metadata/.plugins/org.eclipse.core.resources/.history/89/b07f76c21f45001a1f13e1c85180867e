@@ -1,0 +1,20 @@
+package entities;
+
+public class funcionario {
+	
+	public String Name;
+	public double GrossSalary;
+	public double Tax;
+	
+	
+	public double NetSalary() {
+		double NetSalary = GrossSalary - Tax;
+		return NetSalary;
+	}
+	public void increaseSalary() {
+		double increaseSalary = (porcentagem * liquido) / 100;
+	}
+	
+	
+	
+}

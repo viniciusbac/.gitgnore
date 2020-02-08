@@ -1,0 +1,9 @@
+package entities;
+
+public class funcionario {
+	
+	public String Name;
+	public salariobruto;
+	
+	
+}

@@ -1,0 +1,12 @@
+package entities;
+
+public class Converter {
+	public double price;
+	public double quantity;	
+	
+	public static double converter() {
+		return  price * quantity + quantity
+	}
+		
+	
+}
